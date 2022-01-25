@@ -2,7 +2,7 @@
 <h1>Description:</h1><br>
 This program uses the mapbox API and the mapboxgl JS library to programmatically map a moving marker that details the bus route between the campuses of MIT and Harvard University upon clicking an HTML button.<br>
 
-<br><img src='map.png'>
+<br><img src='map.jpg'>
 
 <h1>Instructions:</h1><br>
 <ul>
